@@ -2,6 +2,13 @@
 CodeIt is an online platform for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and a healthy learning environment, where developers can create code snippets, and test them.
 
 
+## Demonstration 
+
+
+https://github.com/prakarshs/CodeIt/assets/138369731/8d9e582c-9ade-44a9-8179-54b075aeab62
+
+
+
 ### Built With
 
 * ![HTML]
